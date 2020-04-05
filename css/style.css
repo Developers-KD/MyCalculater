@@ -1,11 +1,10 @@
 body{
-    max-width: auto;
     margin: auto;
     font-family: 'open Sans' , 'sans-serif';
     background-image: linear-gradient(rgba(53, 127, 121, 0.3),rgba(0, 0, 0, 0.3)),url("https://cdn.pixabay.com/photo/2016/11/29/04/18/hot-air-balloons-1867279_1280.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 
 .main{

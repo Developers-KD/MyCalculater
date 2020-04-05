@@ -1,7 +1,7 @@
 body{
     margin: auto;
     font-family: 'open Sans' , 'sans-serif';
-    background-image: url("/images/bg_image3.jpg");
+    background-image: url("images/bg_image3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

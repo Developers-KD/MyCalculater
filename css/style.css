@@ -1,15 +1,12 @@
+
 body{
-    margin: auto;
     font-family: 'open Sans' , 'sans-serif';
     background-image: linear-gradient(rgba(53, 127, 121, 0.3),rgba(0, 0, 0, 0.3)),url("https://cdn.pixabay.com/photo/2016/11/29/04/18/hot-air-balloons-1867279_1280.jpg");
-    background-position: center;
-/*     background-repeat: no-repeat; */
-    background-size: 100% 100%;
+    background-size: cover;
 }
-
 .main{
     width: 1280px;
-    height: 680px;
+    height: auto;
     
 }
 #screen{
@@ -22,15 +19,13 @@ body{
     
     
 }
-
 .text{
-
     color: white;
     text-align: center;
 }
 #mainText{
     font-family: 'Eater', cursive;
-    padding-top: 12%;
+    padding-top: 16%;
     font-size: 60;
     text-shadow: black;
     text-decoration: none;
